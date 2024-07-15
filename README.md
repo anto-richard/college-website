@@ -4,7 +4,7 @@ Design and develop a modern, user-friendly website for Saveetha Engineering Coll
 
 For Example:https://kumaravel655.github.io/college
 
-## Output : 
+## Output : https://anto-richard.github.io/college-website/
 
 ## Code :
 
